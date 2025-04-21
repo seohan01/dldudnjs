@@ -10,7 +10,7 @@ int p(int n) {
 
 int main() {
 	int n,sum=0;
-	scanf_s("%d", &n);
+	scanf("%d", &n);
 	
 	printf("%d", p(n));
 
